@@ -1,6 +1,6 @@
 {
   "name": "unconscious",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "",
   "main": "node/index.js",
   "scripts": {
