@@ -1,1 +1,1 @@
-module.exports = require('./templateLoop.js')
+module.exports = require('./loop.js')
