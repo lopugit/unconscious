@@ -13,8 +13,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "experiences": "^1.0.3",
+    "experiences": "^1.0.5",
     "mongoose": "^5.4.21",
+    "philosophy": "^1.0.4",
     "smarts": "^1.0.76"
   }
 }
